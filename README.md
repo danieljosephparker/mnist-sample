@@ -1,4 +1,5 @@
 # MNIST in TensorFlow
+## An arbitrary code change
 
 This directory builds a convolutional neural net to classify the [MNIST
 dataset](http://yann.lecun.com/exdb/mnist/) using the
